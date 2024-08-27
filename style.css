@@ -1,0 +1,27 @@
+
+        body {
+            color: red;
+            font-family: "Times New Roman", serif;
+            background-color: beige;
+            text-align: center;
+        }
+
+        table {
+            margin: 0 auto; /* Centering the table */
+            border-collapse: collapse; /* Better table formatting */
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+
+        fieldset {
+            border: 1px solid black;
+            margin: 10px;
+            padding: 10px;
+        }
+
+        input[type="text"] {
+            margin-bottom: 10px;
+        }
